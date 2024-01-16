@@ -5,7 +5,7 @@
 
 Hello everyone,
 
- My name is Luther Williams (https://github.com/Williamsluther3), I am here to introduce to you the Growth Mindset,  
+ My name is Luther Williams [GitHub Profile](https://github.com/Williamsluther3), I am here to introduce to you the Growth Mindset,  
  and how you can catapult your performance to new heights by switching your thought pattern to it. 
 
  **What is Growth Mindset**
