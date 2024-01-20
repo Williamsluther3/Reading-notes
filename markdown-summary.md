@@ -32,7 +32,7 @@ it is best practise to use the asterisk instead of the underscore.
 
 When creating or adding links in an md you will simply placing what you would like you link's title or name to say inside brakets [] 
 and then place the URL inside parentheses (). the URL can be copied and paste inside the parentheses.
-![Ricky Bobby](Ricky Bobby.jfif)
+![Ricky Bobby](RickyBobby.jfif)
 
 When creating documents, pages and sites you may have to list out items.
 - You would do this for unordered list by using dashes -  
