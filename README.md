@@ -29,5 +29,6 @@ It's easy to get sidetracked after sitting trying to figure out a difficult prob
 * How do you want to be viewed
 
   There are many reasons to take on a Growth mindset it's up to you to decide what's the motivating reason for you.
+  ![Growth Mindset](mindgrowth.jpg)
 
 
