@@ -1,35 +1,48 @@
-# Growth Mindset
+# Code Fellows Course and Class Assignments
 
-## _Staying focussed and completing the task can be difficult when you've hit a wall or have lost your drive. With a little focus and perseverance you can move past it and finish what you've started by attracting a Growth Mindset._
-
+## **Introduction**
 
 ## Hello everyone,
 
- My name is Luther Williams [GitHub Profile](https://github.com/Williamsluther3), I am here to introduce to you the Growth Mindset,  
- and how you can catapult your performance to new heights by switching your thought pattern to it. 
+ My name is Luther Williams [GitHub Profile](https://github.com/Williamsluther3), I am a Analyst that's looking to grow into a System Analyst, Programmer Analyst or Web Developer. In order to do this I needed to increase my knowledge in the coding field, so I enrolled into **[Code Fellows](https://www.codefellows.org/)**. Code Fellows is teaching me coding from a beginners standpoint and building me up ending at a more professional level. 
 
-### **What is Growth Mindset**
+### **Website Description**
 
-> Having the ability to push past any difficult, stressfull situation or distraction that may get in the way of you completing a task or reaching your goal.
+> This site was created to give you an inside look at how I started with *Code Fellows* and learned how to code. Showing you the steps I took with sharing the course class assignements and the progression of my work in every class. 
 
-It's easy to get sidetracked after sitting trying to figure out a difficult problem that seems to have no good answer. Your mind starts to wonder and you find yourself clicking on websites, texting on your phone or just about anything that keeps you from completing your task.  
+### **TABLE of CONTENTS**
 
-### **How to turn on your Growth Mindset**
+## **Code 102**
 
-1. Take sometime (5-10 minutes) and step away from your task and go back with a fresh mind.
-1.  Chisel at the task bit by bit until you complete it.
-1. Keep reminding yourself of what it is you are trying to accomplish
-1. Don't be afraid to ask for help
+1. Markdown
+1. Coder's Computer
+1. Revisions and the Cloud
+1. Structure web page with HTML
+1. Design web page with CSS
+1. Activate web page with JavaScript
+1. Programming with JavaScript
+1. operators and Loops
 
-### **Motivating Growth Mindset factors**
+## **Code 201**
 
-* What are you trying to achieve
-* Who do you do it all for
-* What's you overall goal
-* How do you want to be viewed
+1. Class 201
+1. Class 202
+1. Class 203
+1. Class 204
+1. Class 205
+1. Class 206
+1. Class 207
+1. Class 208
+1. Class 209
+1. Class 210
+1. Class 211
+1. Class 212
+1. Class 213
+1. Class 214
+1. Class 215
 
-  There are many reasons to take on a Growth mindset it's up to you to decide what's the motivating reason for you.
-  
+
+
   
   ![Growth Mindset](mindgrowth.jpg)
 
