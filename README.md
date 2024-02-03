@@ -14,36 +14,33 @@
 
 ## **Code 102**
 
-1. Markdown
-1. Coder's Computer
-1. Revisions and the Cloud
-1. Structure web page with HTML
-1. Design web page with CSS
-1. Activate web page with JavaScript
-1. Programming with JavaScript
-1. operators and Loops
+1. [Markdown](https://williamsluther3.github.io/Code-102/Markdown)
+1. [Coder's Computer](https://williamsluther3.github.io/Code-102/Coder's-Computer)
+1. [Revisions and the Cloud](https://williamsluther3.github.io/Code-102/Revisions-and-the-Cloud)
+1. [Structure web page with HTML](https://williamsluther3.github.io/Code-102/Structure-webpage-with-HTML)
+1. [Design web page with CSS](https://williamsluther3.github.io/Code-102/Design-webpage-with-CSS)
+1. [Activate web page with JavaScript](Activate-webpage-with-JavaScript)
+1. [Programming with JavaScript](https://williamsluther3.github.io/Code-102/Programming-with-JavaScript)
+1. [Operators and Loops](https://williamsluther3.github.io/Code-102/Operators-and-Loops)
 
 ## **Code 201**
 
-1. Class 201
-1. Class 202
-1. Class 203
-1. Class 204
-1. Class 205
-1. Class 206
-1. Class 207
-1. Class 208
-1. Class 209
-1. Class 210
-1. Class 211
-1. Class 212
-1. Class 213
-1. Class 214
-1. Class 215
+1. [Class 201](https://williamsluther3.github.io/Code-201/Class-01)
+1. [Class 202](https://williamsluther3.github.io/Code-201/Class-02)
+1. [Class 203](https://williamsluther3.github.io/Code-201/Class-03)
+1. [Class 204](https://williamsluther3.github.io/Code-201/Class-04)
+1. [Class 205](https://williamsluther3.github.io/Code-201/Class-05)
+1. [Class 206](https://williamsluther3.github.io/Code-201/Class-06)
+1. [Class 207](https://williamsluther3.github.io/Code-201/Class-07)
+1. [Class 208](https://williamsluther3.github.io/Code-201/Class-08)
+1. [Class 209](https://williamsluther3.github.io/Code-201/Class-09)
+1. [Class 210](https://williamsluther3.github.io/Code-201/Class-10)
+1. [Class 211](https://williamsluther3.github.io/Code-201/Class-11)
+1. [Class 212](https://williamsluther3.github.io/Code-201/Class-12)
+1. [Class 213](https://williamsluther3.github.io/Code-201/Class-13)
+1. [Class 214](https://williamsluther3.github.io/Code-201/Class-14)
+1. [Class 215](https://williamsluther3.github.io/Code-201/Class-15)
 
-
-
+I choose to continue feeding my mind with knowledge on as much as possible, in many areas which encourages a Growth Mindset.
   
   ![Growth Mindset](mindgrowth.jpg)
-
-
