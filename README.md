@@ -12,7 +12,7 @@
 
 ### **TABLE of CONTENTS**
 
-## **Code 102**
+## **Code 102 - Intro to Software Development**
 
 1. [Markdown](https://williamsluther3.github.io/Code-102/Markdown)
 1. [Coder's Computer](https://williamsluther3.github.io/Code-102/Coder's-Computer)
@@ -23,7 +23,7 @@
 1. [Programming with JavaScript](https://williamsluther3.github.io/Code-102/Programming-with-JavaScript)
 1. [Operators and Loops](https://williamsluther3.github.io/Code-102/Operators-and-Loops)
 
-## **Code 201**
+## **Code 201 - Foundations of Software Development**
 
 1. [Class 201](https://williamsluther3.github.io/Code-201/Class-01)
 1. [Class 202](https://williamsluther3.github.io/Code-201/Class-02)
@@ -40,6 +40,10 @@
 1. [Class 213](https://williamsluther3.github.io/Code-201/Class-13)
 1. [Class 214](https://williamsluther3.github.io/Code-201/Class-14)
 1. [Class 215](https://williamsluther3.github.io/Code-201/Class-15)
+
+## **Code 301 - Intermediate Software Development**
+
+## **Code 401 - Advanced Software Development**
 
 I choose to continue feeding my mind with knowledge on as much as possible, in many areas which encourages a Growth Mindset.
   
