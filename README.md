@@ -23,7 +23,7 @@
 1. [Programming with JavaScript](https://williamsluther3.github.io/Code-102/Programming-with-JavaScript)
 1. [Operators and Loops](https://williamsluther3.github.io/Code-102/Operators-and-Loops)
 
-## **Code 201 - Foundations of Software Development**
+## **Code 201 - Foundations of Software Development **
 
 1. [Class 201](https://williamsluther3.github.io/Code-201/Class-01)
 1. [Class 202](https://williamsluther3.github.io/Code-201/Class-02)
