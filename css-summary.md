@@ -44,7 +44,7 @@ H1 {
 }
 
 ### *Inline CSS*:  
-Are used to nsy=tyle a single element. To use you must add the style attribute to the relevant element, like this:
+Are used to style a single element. To use you must add the style attribute to the relevant element, like this:
 
 
 !DOCTYPE html>  
